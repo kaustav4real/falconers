@@ -1,0 +1,24 @@
+
+.heading{
+    padding-top: 26px;
+    text-align: center;
+}
+
+.boundary{
+    width: 10%;
+    border-style: dotted;
+    height: 0px;
+    border-width: 10px 0px 0px 0px;
+   
+   
+}
+
+
+
+.aboutushead{
+    text-align: center;
+}
+
+.sm{
+    height: 100px;
+}
